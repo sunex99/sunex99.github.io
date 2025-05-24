@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "About me" 
+date:   2025-05-23 21:07:46 +0200
+categories: "about"
+---
+
+Hello! My name is Jure. I'm passionate about technology, programming, and sharing knowledge with others. This blog is where I document my learning journey, projects, and thoughts on software development.
+
+Feel free to explore my posts, leave comments, or connect with me if you share similar interests. Thanks for visiting!
